@@ -6,5 +6,3 @@ kilpkonn's Team Fortress 2 configs with all binds and scripts including:
 + easy switch between loadouts
 + easy switch between classes
 + Fast disguise as spy
-+ And more coming soon
-  
